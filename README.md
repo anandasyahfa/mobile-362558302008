@@ -15,7 +15,7 @@ Praktikum ini mengimplementasikan sistem navigasi multi-halaman pada aplikasi **
 ## 2. Bukti Tangkapan Layar (Running App)
 | Halaman Beranda (HomePage) | Halaman Detail Buku (DetailPage) | Halaman Sukses (SuccessPage) |
 |---|---|---|
-| ![Home](./foto1.png) | ![Detail](./foto2.png) | ![Success](./foto3.png) |
+| ![Home](/1.png) | ![Detail](/2.png) | ![Success](/3.png) |
 
 
 ## 3. Kendala Layout yang Dihadapi & Solusinya
@@ -24,4 +24,7 @@ Praktikum ini mengimplementasikan sistem navigasi multi-halaman pada aplikasi **
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
